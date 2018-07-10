@@ -1,0 +1,14 @@
+E:\proga_Visual\ADO_net\Dz2\Dz2\bin\Debug\Dz2.exe.config
+E:\proga_Visual\ADO_net\Dz2\Dz2\bin\Debug\Dz2.exe
+E:\proga_Visual\ADO_net\Dz2\Dz2\bin\Debug\Dz2.pdb
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.csprojAssemblyReference.cache
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.Form1.resources
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.Properties.Resources.resources
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.csproj.GenerateResource.cache
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.csproj.CoreCompileInputs.cache
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.exe
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.pdb
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.Form2_Rename.resources
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.Form2_Add.resources
+E:\proga_Visual\ADO_net\Dz2\Dz2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\proga_Visual\ADO_net\Dz2\Dz2\obj\Debug\Dz2.csproj.CopyComplete

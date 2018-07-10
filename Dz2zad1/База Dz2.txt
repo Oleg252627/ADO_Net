@@ -1,0 +1,19 @@
+CREATE DATABASE Users
+GO
+USE Users
+Go
+CREATE TABLE Polzovateli
+(Id int NOT NULL PRIMARY KEY IDENTITY(1,1),
+Loginn nvarchar(30) NOT NULL,
+Passwordd nvarchar(30) NOT NULL,
+Adres nvarchar(30) NOT NULL,
+Telefon nvarchar(30) NOT NULL,
+Administrator bit NOT NULL)
+GO
+INSERT Polzovateli
+VALUES
+('Luchezarniy','Kas252627','22/86','80674883936',1),
+('Glamyrniy','Kef353637','55/89','80986663445',1),
+('Velikolepniy','Ol454647','33/45','80989938138',0),
+('Ol','oo2222','22/67','80984323523',1)
+GO
